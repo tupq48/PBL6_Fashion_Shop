@@ -1,0 +1,248 @@
+{
+    "loaisp": [
+        {
+            "id": 1,
+            "loaisanpham_ten": "Nike Air ",
+            "loaisanpham_url": "nike-air-",
+            "loaisanpham_mo_ta": "<p>Th&ocirc;ng tin thương hiệu Nike</p>\r\n\r\n<p><img alt=\"Nike\" src=\"https://cdn.tgdd.vn/2021/12/Sports/Images/49/logo-nike-216x78.png\" /></p>\r\n\r\n<p>- Thương hiệu của Mỹ.</p>\r\n\r\n<p>- Được th&agrave;nh lập v&agrave;o năm 1964.</p>\r\n\r\n<p>- Th&agrave;nh tựu: Thương hiệu thời trang thể thao số 1 thế giới, t&iacute;nh đến năm 2020.</p>\r\n\r\n<p>- C&aacute;c d&ograve;ng sản phẩm ch&iacute;nh: Nike cung cấp đa dạng c&aacute;c sản phẩm như&nbsp;<a href=\"https://www.avasport.com/giay\" title=\"Mua giày Nike nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">gi&agrave;y thể thao</a>,&nbsp;<a href=\"https://www.avasport.com/quan\" title=\"Mua quần Nike nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">quần thể thao</a>,&nbsp;<a href=\"https://www.avasport.com/ao\" title=\"Mua áo Nike nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">&aacute;o thể thao</a>, dụng cụ, thiết bị v&agrave; phụ kiện thể thao, bao gồm b&oacute;ng rổ, b&oacute;ng đ&aacute;, chạy bộ, leo n&uacute;i.</p>\r\n",
+            "loaisanpham_anh": "Logo_nike.png",
+            "loaisanpham_da_xoa": 1,
+            "nhom_id": 1,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "id": 2,
+            "loaisanpham_ten": "Nike Jordan",
+            "loaisanpham_url": "nike-jordan",
+            "loaisanpham_mo_ta": "<p>Th&ocirc;ng tin thương hiệu Nike</p>\r\n\r\n<p><img alt=\"Nike\" src=\"https://cdn.tgdd.vn/2021/12/Sports/Images/49/logo-nike-216x78.png\" /></p>\r\n\r\n<p>- Thương hiệu của Mỹ.</p>\r\n\r\n<p>- Được th&agrave;nh lập v&agrave;o năm 1964.</p>\r\n\r\n<p>- Th&agrave;nh tựu: Thương hiệu thời trang thể thao số 1 thế giới, t&iacute;nh đến năm 2020.</p>\r\n\r\n<p>- C&aacute;c d&ograve;ng sản phẩm ch&iacute;nh: Nike cung cấp đa dạng c&aacute;c sản phẩm như&nbsp;<a href=\"https://www.avasport.com/giay\" title=\"Mua giày Nike nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">gi&agrave;y thể thao</a>,&nbsp;<a href=\"https://www.avasport.com/quan\" title=\"Mua quần Nike nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">quần thể thao</a>,&nbsp;<a href=\"https://www.avasport.com/ao\" title=\"Mua áo Nike nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">&aacute;o thể thao</a>, dụng cụ, thiết bị v&agrave; phụ kiện thể thao, bao gồm b&oacute;ng rổ, b&oacute;ng đ&aacute;, chạy bộ, leo n&uacute;i.</p>\r\n",
+            "loaisanpham_anh": "Logo_nike.png",
+            "loaisanpham_da_xoa": 1,
+            "nhom_id": 1,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "id": 3,
+            "loaisanpham_ten": "Nike khác",
+            "loaisanpham_url": "nike-khac",
+            "loaisanpham_mo_ta": "<p>Th&ocirc;ng tin thương hiệu Nike</p>\r\n\r\n<p><img alt=\"Nike\" src=\"https://cdn.tgdd.vn/2021/12/Sports/Images/49/logo-nike-216x78.png\" /></p>\r\n\r\n<p>- Thương hiệu của Mỹ.</p>\r\n\r\n<p>- Được th&agrave;nh lập v&agrave;o năm 1964.</p>\r\n\r\n<p>- Th&agrave;nh tựu: Thương hiệu thời trang thể thao số 1 thế giới, t&iacute;nh đến năm 2020.</p>\r\n\r\n<p>- C&aacute;c d&ograve;ng sản phẩm ch&iacute;nh: Nike cung cấp đa dạng c&aacute;c sản phẩm như&nbsp;<a href=\"https://www.avasport.com/giay\" title=\"Mua giày Nike nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">gi&agrave;y thể thao</a>,&nbsp;<a href=\"https://www.avasport.com/quan\" title=\"Mua quần Nike nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">quần thể thao</a>,&nbsp;<a href=\"https://www.avasport.com/ao\" title=\"Mua áo Nike nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">&aacute;o thể thao</a>, dụng cụ, thiết bị v&agrave; phụ kiện thể thao, bao gồm b&oacute;ng rổ, b&oacute;ng đ&aacute;, chạy bộ, leo n&uacute;i.</p>\r\n",
+            "loaisanpham_anh": "Logo_nike.png",
+            "loaisanpham_da_xoa": 1,
+            "nhom_id": 1,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "id": 4,
+            "loaisanpham_ten": "Adidas Ultraboost",
+            "loaisanpham_url": "adidas-ultraboost",
+            "loaisanpham_mo_ta": "<p>Th&ocirc;ng tin thương hiệu Adidas</p>\r\n\r\n<p><img alt=\"Adidas\" src=\"https://cdn.tgdd.vn/2022/04/Sports/Images/2/logo-adidass-216x78.png\" /></p>\r\n\r\n<p>- Thương hiệu của Đức.</p>\r\n\r\n<p>- Được th&agrave;nh lập v&agrave;o năm 1924.</p>\r\n\r\n<p>- Th&agrave;nh tựu: Thương hiệu gi&agrave;y thể thao đứng thứ 2 thế giới chỉ sau Nike, t&iacute;nh đến năm 2020.</p>\r\n\r\n<p>- C&aacute;c d&ograve;ng sản phẩm ch&iacute;nh:&nbsp;<a href=\"https://www.avasport.com/giay\" title=\"Mua giày Adidas nam nữ chính hãng, giá rẻ - Ưu Đãi Hấp Dẫn\">gi&agrave;y thể thao</a>,&nbsp;<a href=\"https://www.avasport.com/quan-ao\" title=\"Mua quần áo Adidas nam nữ chính hãng, giá rẻ - Ưu Đãi Hấp Dẫn\">quần&nbsp;&aacute;o thể thao</a>&nbsp;v&agrave;&nbsp;<a href=\"https://www.avasport.com/phu-kien-the-thao\" title=\"Mua phụ kiện thể thao Adidas nam nữ chính hãng, giá rẻ - Ưu Đãi Hấp Dẫn\">phụ kiện thể thao</a>&nbsp;phục vụ cho nhu cầu luyện tập c&aacute;c m&ocirc;n thể thao phổ biến, ở mọi độ tuổi v&agrave; giới t&iacute;nh.</p>\r\n",
+            "loaisanpham_anh": "Logo_Adidas.png",
+            "loaisanpham_da_xoa": 1,
+            "nhom_id": 2,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "id": 5,
+            "loaisanpham_ten": "Adidas khác",
+            "loaisanpham_url": "adidas-khac",
+            "loaisanpham_mo_ta": "<p>Th&ocirc;ng tin thương hiệu Adidas</p>\r\n\r\n<p><img alt=\"Adidas\" src=\"https://cdn.tgdd.vn/2022/04/Sports/Images/2/logo-adidass-216x78.png\" /></p>\r\n\r\n<p>- Thương hiệu của Đức.</p>\r\n\r\n<p>- Được th&agrave;nh lập v&agrave;o năm 1924.</p>\r\n\r\n<p>- Th&agrave;nh tựu: Thương hiệu gi&agrave;y thể thao đứng thứ 2 thế giới chỉ sau Nike, t&iacute;nh đến năm 2020.</p>\r\n\r\n<p>- C&aacute;c d&ograve;ng sản phẩm ch&iacute;nh:&nbsp;<a href=\"https://www.avasport.com/giay\" title=\"Mua giày Adidas nam nữ chính hãng, giá rẻ - Ưu Đãi Hấp Dẫn\">gi&agrave;y thể thao</a>,&nbsp;<a href=\"https://www.avasport.com/quan-ao\" title=\"Mua quần áo Adidas nam nữ chính hãng, giá rẻ - Ưu Đãi Hấp Dẫn\">quần&nbsp;&aacute;o thể thao</a>&nbsp;v&agrave;&nbsp;<a href=\"https://www.avasport.com/phu-kien-the-thao\" title=\"Mua phụ kiện thể thao Adidas nam nữ chính hãng, giá rẻ - Ưu Đãi Hấp Dẫn\">phụ kiện thể thao</a>&nbsp;phục vụ cho nhu cầu luyện tập c&aacute;c m&ocirc;n thể thao phổ biến, ở mọi độ tuổi v&agrave; giới t&iacute;nh.</p>\r\n",
+            "loaisanpham_anh": "Logo_Adidas.png",
+            "loaisanpham_da_xoa": 1,
+            "nhom_id": 2,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "id": 6,
+            "loaisanpham_ten": "Puma Nitro",
+            "loaisanpham_url": "puma-nitro",
+            "loaisanpham_mo_ta": "<p>Th&ocirc;ng tin thương hiệu Puma</p>\r\n\r\n<p><img alt=\"Puma\" src=\"https://cdn.tgdd.vn/2021/12/Sports/Images/54/logo-puma-new-216x78.png\" /></p>\r\n\r\n<p>- Thương hiệu của Đức.</p>\r\n\r\n<p>- Được th&agrave;nh lập v&agrave;o năm 1924.</p>\r\n\r\n<p>- Th&agrave;nh tựu: Puma l&agrave; một trong những thương hiệu gi&agrave;y h&agrave;ng đầu tại Đức v&agrave; thuộc top c&aacute;c sản phẩm thể thao tốt nhất thế giới hiện nay.</p>\r\n\r\n<p>- C&aacute;c d&ograve;ng sản phẩm ch&iacute;nh: Puma c&oacute; 5 d&ograve;ng sản phẩm ch&iacute;nh, được chia theo chức năng gồm phong c&aacute;ch thể thao, sản phẩm cho b&oacute;ng rổ, sản phẩm cho chạy bộ, thể thao đồng đội v&agrave; thể thao m&ocirc; t&ocirc;. Trong từng d&ograve;ng, Puma cung cấp đa dạng sản phẩm từ&nbsp;<a href=\"https://www.avasport.com/giay\" title=\"Mua giày Puma nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">gi&agrave;y thể thao</a>,&nbsp;<a href=\"https://www.avasport.com/quan\" title=\"Mua quần Puma nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">quần</a>,&nbsp;<a href=\"https://www.avasport.com/ao\" title=\"Mua áo Puma nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">&aacute;o</a>&nbsp;thể thao đến c&aacute;c phụ kiện thể thao chuy&ecirc;n dụng.</p>\r\n",
+            "loaisanpham_anh": "logo-puma-new-216x78.png",
+            "loaisanpham_da_xoa": 1,
+            "nhom_id": 3,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "id": 7,
+            "loaisanpham_ten": "Giày Mizuno",
+            "loaisanpham_url": "giay-mizuno",
+            "loaisanpham_mo_ta": "<p>Gi&agrave;y Mizuno chất lượng cao</p>\r\n",
+            "loaisanpham_anh": "Logo_Mizuno.png",
+            "loaisanpham_da_xoa": 1,
+            "nhom_id": 4,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "id": 11,
+            "loaisanpham_ten": "Áo chính hãng",
+            "loaisanpham_url": "ao-chinh-hang",
+            "loaisanpham_mo_ta": "<p>&Aacute;o Ch&iacute;nh H&atilde;ng</p>\r\n",
+            "loaisanpham_anh": "SPKHAC.jpg",
+            "loaisanpham_da_xoa": 0,
+            "nhom_id": 4,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "id": 12,
+            "loaisanpham_ten": "Quần chính hãng",
+            "loaisanpham_url": "quan-chinh-hang",
+            "loaisanpham_mo_ta": "<p>H&agrave;ng ch&iacute;nh h&atilde;ng</p>\r\n",
+            "loaisanpham_anh": "SPQUAN.jpg",
+            "loaisanpham_da_xoa": 0,
+            "nhom_id": 4,
+            "created_at": null,
+            "updated_at": null
+        },
+        {
+            "id": 13,
+            "loaisanpham_ten": "Puma khác",
+            "loaisanpham_url": "puma-khac",
+            "loaisanpham_mo_ta": "<p>Th&ocirc;ng tin thương hiệu Puma</p>\r\n\r\n<p><img alt=\"Puma\" src=\"https://cdn.tgdd.vn/2021/12/Sports/Images/54/logo-puma-new-216x78.png\" /></p>\r\n\r\n<p>- Thương hiệu của Đức.</p>\r\n\r\n<p>- Được th&agrave;nh lập v&agrave;o năm 1924.</p>\r\n\r\n<p>- Th&agrave;nh tựu: Puma l&agrave; một trong những thương hiệu gi&agrave;y h&agrave;ng đầu tại Đức v&agrave; thuộc top c&aacute;c sản phẩm thể thao tốt nhất thế giới hiện nay.</p>\r\n\r\n<p>- C&aacute;c d&ograve;ng sản phẩm ch&iacute;nh: Puma c&oacute; 5 d&ograve;ng sản phẩm ch&iacute;nh, được chia theo chức năng gồm phong c&aacute;ch thể thao, sản phẩm cho b&oacute;ng rổ, sản phẩm cho chạy bộ, thể thao đồng đội v&agrave; thể thao m&ocirc; t&ocirc;. Trong từng d&ograve;ng, Puma cung cấp đa dạng sản phẩm từ&nbsp;<a href=\"https://www.avasport.com/giay\" title=\"Mua giày Puma nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">gi&agrave;y thể thao</a>,&nbsp;<a href=\"https://www.avasport.com/quan\" title=\"Mua quần Puma nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">quần</a>,&nbsp;<a href=\"https://www.avasport.com/ao\" title=\"Mua áo Puma nam nữ chính hãng, đẹp, giá rẻ - Ưu đãi hấp dẫn\">&aacute;o</a>&nbsp;thể thao đến c&aacute;c phụ kiện thể thao chuy&ecirc;n dụng.</p>\r\n",
+            "loaisanpham_anh": "logo-puma-new-216x78.png",
+            "loaisanpham_da_xoa": 0,
+            "nhom_id": 3,
+            "created_at": null,
+            "updated_at": null
+        }
+    ],
+    "sanpham": [
+        {
+            "lomoi": 42,
+            "id": 33,
+            "sanpham_ten": "Giày Lifestyle Unisex Puma RS-Fast 380562-05",
+            "sanpham_url": "giay-lifestyle-unisex-puma-rs-fast-380562-05",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "PK001_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 100,
+            "lohang_gia_ban_ra": "3299000.00"
+        },
+        {
+            "lomoi": 41,
+            "id": 32,
+            "sanpham_ten": "Giày Chạy Bộ Nữ Puma Deviate Nitro 194453-13",
+            "sanpham_url": "giay-chay-bo-nu-puma-deviate-nitro-194453-13",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "PN001_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 100,
+            "lohang_gia_ban_ra": "3999000.00"
+        },
+        {
+            "lomoi": 40,
+            "id": 31,
+            "sanpham_ten": "Giày Chạy Bộ Nam Adidas X9000L2 GY0125",
+            "sanpham_url": "giay-chay-bo-nam-adidas-x9000l2-gy0125",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "AK002_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 100,
+            "lohang_gia_ban_ra": "2850000.00"
+        },
+        {
+            "lomoi": 39,
+            "id": 30,
+            "sanpham_ten": "Giày Chạy Bộ Nữ Adidas Supernova 2 W GW9100",
+            "sanpham_url": "giay-chay-bo-nu-adidas-supernova-2-w-gw9100",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "AK001_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 100,
+            "lohang_gia_ban_ra": "2400000.00"
+        },
+        {
+            "lomoi": 38,
+            "id": 29,
+            "sanpham_ten": "Giày Chạy Bộ Nữ Adidas Ultraboost S23754",
+            "sanpham_url": "giay-chay-bo-nu-adidas-ultraboost-s23754",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "AU004_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 73,
+            "lohang_gia_ban_ra": "5000000.00"
+        },
+        {
+            "lomoi": 37,
+            "id": 28,
+            "sanpham_ten": "Giày Chạy Bộ Nữ Adidas Ultraboost GZ1540-6",
+            "sanpham_url": "giay-chay-bo-nu-adidas-ultraboost-gz1540-6",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "AU003_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 100,
+            "lohang_gia_ban_ra": "4399000.00"
+        },
+        {
+            "lomoi": 36,
+            "id": 27,
+            "sanpham_ten": "Giày Chạy Bộ Nữ Adidas Solar Glide 5 W GX6719",
+            "sanpham_url": "giay-chay-bo-nu-adidas-solar-glide-5-w-gx6719",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "AU002_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 100,
+            "lohang_gia_ban_ra": "3599000.00"
+        },
+        {
+            "lomoi": 35,
+            "id": 26,
+            "sanpham_ten": "Giày Chạy Bộ Unisex Adidas Ultraboost FX0031",
+            "sanpham_url": "giay-chay-bo-unisex-adidas-ultraboost-fx0031",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "AU001_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 100,
+            "lohang_gia_ban_ra": "4499000.00"
+        },
+        {
+            "lomoi": 34,
+            "id": 25,
+            "sanpham_ten": "Giày Bóng Rổ Nike Nam Kyrie Infinity Ep DC9134-400",
+            "sanpham_url": "giay-bong-ro-nike-nam-kyrie-infinity-ep-dc9134-400",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "NK003_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 100,
+            "lohang_gia_ban_ra": "3790000.00"
+        },
+        {
+            "lomoi": 33,
+            "id": 24,
+            "sanpham_ten": "Giày Nike React Infinity Run Fk 2 Prm DH2497-600",
+            "sanpham_url": "giay-nike-react-infinity-run-fk-2-prm-dh2497-600",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "NK002_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 100,
+            "lohang_gia_ban_ra": "5999999.00"
+        },
+        {
+            "lomoi": 32,
+            "id": 23,
+            "sanpham_ten": "Giày Bóng Rổ Unisex Nike CV7562-104",
+            "sanpham_url": "giay-bong-ro-unisex-nike-cv7562-104",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "NK001_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 100,
+            "lohang_gia_ban_ra": "4999999.00"
+        },
+        {
+            "lomoi": 31,
+            "id": 22,
+            "sanpham_ten": "Giày Lifestyle Nam Nike Air Max DH4245-400",
+            "sanpham_url": "giay-lifestyle-nam-nike-air-max-dh4245-400",
+            "sanpham_khuyenmai": 0,
+            "sanpham_anh": "NA004_1.jpg",
+            "lohang_so_luong_nhap": 100,
+            "lohang_so_luong_hien_tai": 100,
+            "lohang_gia_ban_ra": "4699000.00"
+        }
+    ]
+}
