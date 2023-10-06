@@ -1,7 +1,14 @@
 [
-  {
-    "id":1,
-    "name":"A",
-    "decription":"brand A"
-  }
+{
+"id": 1,
+"name": "NikeAir",
+"price": 200000,
+"status": "Còn hàng",
+"decription": "Giày đẹp",
+"quantity": 20,
+"quantity_sold": 0,
+"brand": "Nike",
+"type": "Giày",
+"unit": "Đôi"
+}
 ]
