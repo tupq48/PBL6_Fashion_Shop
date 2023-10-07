@@ -1,6 +1,4 @@
-
-{
-  {
+ {
     "id": 1,
     "name": "NikeAir",
     "price": 200000,
@@ -11,6 +9,5 @@
     "brand": "Nike",
     "type": "Giày",
     "unit": "Đôi"
-  }
 }
 
