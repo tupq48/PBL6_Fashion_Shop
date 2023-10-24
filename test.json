@@ -54,7 +54,7 @@ http://localhost:8080/api/product/promotion/1     ------ lấy thông tin chươ
     {
         "productId": 1,
         "name": "Khuyến mãi tháng 5",
-        "description": "Product 1 description",
+        "description": "Giảm 10k",
         "startAt": "2023-10-21T15:24:37",
         "endAt": "2023-11-21T15:24:37",
         "discountType": "AMOUNT",
@@ -63,7 +63,7 @@ http://localhost:8080/api/product/promotion/1     ------ lấy thông tin chươ
     {
         "productId": 1,
         "name": "Siêu khuyến mãi tuần cuối",
-        "description": "Product 1 description",
+        "description": "Giảm 5%",
         "startAt": "2023-10-21T15:24:37",
         "endAt": "2023-10-28T15:24:37",
         "discountType": "PERCENTAGE",
