@@ -1,8 +1,25 @@
-[
-  {
-    "name" : "a"
-  },
-  {
-    "name" : "b"
-  }
-]
+localhost:8080/api/product/detail/2          ------ 2 ở đây là id của product, có thể đổi
+{
+    "sanpham_ten": "Sneaker Adidas",
+    "sanpham_id": 2,
+    "sanpham_mota": "Product 2 description",
+    "nhom_id": 2,
+    "nhom_ten": "Adidas",
+    "loaisanpham_ten": "Sneakers",
+    "loaisanpham_id": 2,
+    "hinhsanpham_url": [
+        {
+            "imageUrl": "https://drive.google.com/file/d/1v1-71xbxTw_EmisyEr0swudbfHj-IqY2/view?usp=drive_link",
+            "productId": 2
+        }
+    ],
+    "lohang_gia_ban_ra": 750,
+    "comments": [
+        {
+            "content": "Giày này mua đáng đồng tiền bát gạo",
+            "createAt": "2023-10-11T13:00:00",
+            "rate": 3,
+            "name": "Tu"
+        }
+    ]
+}
