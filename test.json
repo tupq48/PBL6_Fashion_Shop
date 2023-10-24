@@ -1,4 +1,4 @@
-localhost:8080/api/product/detail/2          ------ 2 ở đây là id của product, có thể đổi
+localhost:8080/api/product/detail/2          ------ 2 ở đây là id của product, có thể đổi - lấy thông tin chi tiết của product
 {
     "sanpham_ten": "Sneaker Adidas",
     "sanpham_id": 2,
@@ -23,3 +23,50 @@ localhost:8080/api/product/detail/2          ------ 2 ở đây là id của pro
         }
     ]
 }
+
+localhost:8080/api/brand      ------ lấy thông tin tất cả các brand
+[
+    {
+        "nhom_id": 1,
+        "nhom_ten": "Nike"
+    },
+    {
+        "nhom_id": 2,
+        "nhom_ten": "Adidas"
+    },
+    {
+        "nhom_id": 3,
+        "nhom_ten": "Puma"
+    },
+    {
+        "nhom_id": 4,
+        "nhom_ten": "Fila"
+    },
+    {
+        "nhom_id": 5,
+        "nhom_ten": "Gucci"
+    }
+]
+
+http://localhost:8080/api/product/promotion/1     ------ lấy thông tin chương trình khuyến mãi đang áp dụng cho product 1
+
+[
+    {
+        "productId": 1,
+        "name": "Khuyến mãi tháng 5",
+        "description": "Product 1 description",
+        "startAt": "2023-10-21T15:24:37",
+        "endAt": "2023-11-21T15:24:37",
+        "discountType": "AMOUNT",
+        "discountValue": 10.0
+    },
+    {
+        "productId": 1,
+        "name": "Siêu khuyến mãi tuần cuối",
+        "description": "Product 1 description",
+        "startAt": "2023-10-21T15:24:37",
+        "endAt": "2023-10-28T15:24:37",
+        "discountType": "PERCENTAGE",
+        "discountValue": 5.0
+    }
+]
