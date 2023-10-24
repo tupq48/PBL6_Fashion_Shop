@@ -70,3 +70,31 @@ http://localhost:8080/api/product/promotion/1     ------ lấy thông tin chươ
         "discountValue": 5.0
     }
 ]
+
+http://localhost:8080/api/order/{{userId}}  --- lấy ra tất cả các đơn đặt hàng theo userid
+[
+  {
+    "khachhang_ten": "Tu",
+    "khachhang_sdt": "0983218232",
+    "khachhang_email": "tupq@gmail.com",
+    "khachhang_diachi": "54 Duy Tân",
+    "donhang_ghi_chu": "Order note 1",
+    "donhang_tong_tien": 75.0,
+    "donhang_giam_gia": 0.0,
+    "thoigian_dat_hang": "2023-10-09T14:00:00",
+    "chitietdonhang": [
+      {
+        "quantity": 2,
+        "unitPrice": 25.0,
+        "productId": 1,
+        "productName": "Giay Nike"
+      },
+      {
+        "quantity": 3,
+        "unitPrice": 30.0,
+        "productId": 2,
+        "productName": "Sneaker Adidas"
+      }
+    ]
+  }
+]
